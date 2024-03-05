@@ -1,6 +1,6 @@
 {
   "name": "binance-trade-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trade api of binance",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/thucvn/binance-trade-api#readme",
   "dependencies": {
     "@binance/connector": "^3.2.0",
-    "infinity-utils": "^1.0.1"
+    "infinity-utils": "^1.0.1",
+    "run-loop-til-success": "^1.0.0"
   }
 }
