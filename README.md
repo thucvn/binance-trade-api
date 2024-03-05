@@ -1,4 +1,4 @@
-API of binance trade\
+API of binance trade
 ```
 const { callTrade } = require('binance-trade-api');
 callTrade(API_KEY, SECRET, PAIR, TYPE, PRICE, QUANTITY);
